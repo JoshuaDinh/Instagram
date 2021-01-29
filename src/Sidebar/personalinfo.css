@@ -1,0 +1,61 @@
+.personalinfo {
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10%;
+}
+.personal-photo {
+  font-size: 12em !important;
+  color: grey;
+}
+
+.personal-photo-color-container {
+  height: 12em;
+  width: 12em;
+  background: -webkit-linear-gradient(
+    45deg,
+    #405de6,
+    #5851db,
+    #833ab4,
+    #c13584,
+    #e1306c,
+    #fd1d1d
+  );
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.personal-photo-container {
+  height: 11.3em;
+  width: 11.3em;
+  background: whitesmoke;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.personal-info {
+  height: 100%;
+  width: 100%;
+}
+
+.personal-name-container {
+  width: 100%;
+  text-align: center;
+  margin-top: 8%;
+}
+
+.personal-display-name {
+  font-size: 1.8rem;
+  color: rgb(73, 70, 70);
+}
+.personal-tag-name {
+  font-size: 0.9rem;
+  color: darkgrey;
+}

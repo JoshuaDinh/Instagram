@@ -2,3 +2,6 @@
   color: red;
   border: 1px solid black;
 }
+.searchbar-input {
+  width: 20vw;
+}
