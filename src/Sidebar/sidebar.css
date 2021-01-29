@@ -1,0 +1,16 @@
+.sidebar {
+  color: red;
+  border: 1px solid black;
+  height: 100vh;
+  width: 21vw;
+  background-color: rgb(241, 244, 247);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sidebarOption {
+  border: 1px solid red;
+  width: 100%;
+  height: 20%;
+}
